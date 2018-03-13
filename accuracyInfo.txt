@@ -1,0 +1,99 @@
+TASK 1
+dart0.jpg has 0 True Positives, 3 False Positives and 0 False Negatives
+dart1.jpg has 0 True Positives, 0 False Positives and 0 False Negatives
+dart2.jpg has 0 True Positives, 1 False Positives and 0 False Negatives
+dart3.jpg has 0 True Positives, 0 False Positives and 0 False Negatives
+dart4.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+dart5.jpg has 11 True Positives, 3 False Positives and 0 False Negatives
+dart6.jpg has 0 True Positives, 4 False Positives and 1 False Negatives
+dart7.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+dart8.jpg has 0 True Positives, 2 False Positives and 0 False Negatives
+dart9.jpg has 1 True Positives, 3 False Positives and 0 False Negatives
+dart10.jpg has 0 True Positives, 4 False Positives and 0 False Negatives
+dart11.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+dart12.jpg has 0 True Positives, 0 False Positives and 0 False Negatives
+dart13.jpg has 1 True Positives, 1 False Positives and 0 False Negatives
+dart14.jpg has 2 True Positives, 5 False Positives and 0 False Negatives
+dart15.jpg has 0 True Positives, 4 False Positives and 0 False Negatives
+
+There are 18 True Positives in total
+There are 30 False Positives in total
+There are 1 False Negatives in total
+
+The TPR = 0.947368
+The F1 Score = 0.537313
+
+TASK 2
+dart0.jpg has 1 True Positives, 13 False Positives and 0 False Negatives
+dart1.jpg has 1 True Positives, 9 False Positives and 0 False Negatives
+dart2.jpg has 1 True Positives, 14 False Positives and 0 False Negatives
+dart3.jpg has 1 True Positives, 7 False Positives and 0 False Negatives
+dart4.jpg has 1 True Positives, 9 False Positives and 0 False Negatives
+dart5.jpg has 1 True Positives, 10 False Positives and 0 False Negatives
+dart6.jpg has 1 True Positives, 19 False Positives and 0 False Negatives
+dart7.jpg has 2 True Positives, 19 False Positives and 0 False Negatives
+dart8.jpg has 6 True Positives, 22 False Positives and 0 False Negatives
+dart9.jpg has 1 True Positives, 23 False Positives and 0 False Negatives
+dart10.jpg has 3 True Positives, 46 False Positives and 1 False Negatives
+dart11.jpg has 1 True Positives, 6 False Positives and 0 False Negatives
+dart12.jpg has 1 True Positives, 5 False Positives and 0 False Negatives
+dart13.jpg has 1 True Positives, 16 False Positives and 0 False Negatives
+dart14.jpg has 2 True Positives, 40 False Positives and 0 False Negatives
+dart15.jpg has 2 True Positives, 8 False Positives and 0 False Negatives
+
+There are 26 True Positives in total
+There are 266 False Positives in total
+There are 1 False Negatives in total
+
+The TPR = 0.962963
+The F1 Score = 0.163009
+
+TASK 3
+dart0.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+dart1.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+dart2.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+dart3.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+dart4.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+dart5.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+dart6.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+dart7.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+dart8.jpg has 2 True Positives, 0 False Positives and 0 False Negatives
+dart9.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+dart10.jpg has 2 True Positives, 0 False Positives and 1 False Negatives
+dart11.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+dart12.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+dart13.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+dart14.jpg has 2 True Positives, 0 False Positives and 0 False Negatives
+dart15.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+
+There are 19 True Positives in total
+There are 0 False Positives in total
+There are 1 False Negatives in total
+
+The TPR = 0.95
+The F1 Score = 0.974359
+
+TASK 4
+dart0.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+dart1.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+dart2.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+dart3.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+dart4.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+dart5.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+dart6.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+dart7.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+dart8.jpg has 2 True Positives, 0 False Positives and 0 False Negatives
+dart9.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+dart10.jpg has 3 True Positives, 0 False Positives and 0 False Negatives
+dart11.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+dart12.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+dart13.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+dart14.jpg has 2 True Positives, 0 False Positives and 0 False Negatives
+dart15.jpg has 1 True Positives, 0 False Positives and 0 False Negatives
+
+There are 20 True Positives in total
+There are 0 False Positives in total
+There are 0 False Negatives in total
+
+The TPR = 1
+The F1 Score = 1
